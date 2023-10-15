@@ -7,7 +7,7 @@
 🚀 Atualmente trabalhando em alguns projetos empolgantes.
 Projetos em Destaque
 
-Grito dos Descohecidos - 
+Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se para uma jornada interdimensional épica que desafiará os limites da sua imaginação e te deixará ansioso para explorar o desconhecido. Bem-vindo a "Gritos dos Desconhecidos".
 
 ## Contatos
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](oliveirami3)
