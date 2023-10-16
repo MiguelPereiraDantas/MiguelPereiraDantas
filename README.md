@@ -17,7 +17,7 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliveira_mi3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelPereiraDantas)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&hide_progress=true)
 
 ## Tecnologias que uso no meu Dia:
 
