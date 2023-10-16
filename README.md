@@ -19,8 +19,7 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&hide_progress=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=donut)](https://github.com/MiguelPereiraDantas/github-readme-stats)
 ## Tecnologias que uso no meu Dia:
 
 <div syle="display: inline_block"><br/>
