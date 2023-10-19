@@ -42,4 +42,5 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 <div>
   <a height="150em" href="http://www.github.com/MiguelPereiraDantas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelPereiraDantas&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a
 </div>
+
 Com cada linha de código, você molda mundos infinitos. Continue programando o futuro dos sonhos.
