@@ -18,12 +18,13 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliveira_mi3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelPereiraDantas)
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&theme=radical)
-
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelPereiraDantas&bg_color=000000&color=047f80&line=047f80&point=017f7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Rogato github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+ <br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=donut)](https://github.com/MiguelPereiraDantas/github-readme-stats)
 ## Tecnologias que uso no meu Dia:
 
 <div syle="display: inline_block"><br/>
