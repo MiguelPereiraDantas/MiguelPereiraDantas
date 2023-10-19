@@ -4,7 +4,7 @@
 
 🎮 GameDev iniciante, com paixão por construir e desenvolver jogos.
 
-🚀 Atualmente trabalhando em alguns projetos empolgantes.
+🚀 Atualmente trabalhando em alguns projetos.
 Projetos em Destaque
 
 Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se para uma jornada interdimensional épica que desafiará os limites da sua imaginação e te deixará ansioso para explorar o desconhecido. Bem-vindo a "Gritos dos Desconhecidos".
@@ -26,7 +26,6 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
  <br>
 
 ## Tecnologias que uso no meu Dia:
-
 <div syle="display: inline_block"><br/>
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -43,7 +42,6 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 <img aling="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img aling="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
 <div>
   <a height="150em" href="http://www.github.com/MiguelPereiraDantas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelPereiraDantas&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a
 </div>
