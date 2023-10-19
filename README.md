@@ -9,7 +9,6 @@ Projetos em Destaque
 
 Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se para uma jornada interdimensional épica que desafiará os limites da sua imaginação e te deixará ansioso para explorar o desconhecido. Bem-vindo a "Gritos dos Desconhecidos".
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelPereiraDantas&bg_color=000000&color=047f80&line=047f80&point=017f7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contatos
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](oliveirami3)
@@ -20,6 +19,9 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelPereiraDantas)
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&theme=radical)
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelPereiraDantas&bg_color=000000&color=047f80&line=047f80&point=017f7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=donut)](https://github.com/MiguelPereiraDantas/github-readme-stats)
 ## Tecnologias que uso no meu Dia:
