@@ -4,6 +4,10 @@
 
 🎮 GameDev iniciante, com paixão por construir e desenvolver jogos.
 
+🌐 Fluente em Português, Inglês, e Espanhol.
+
+💡 Conhecimento básico em Mandarim, Francês, e Japonês.
+
 🚀 Atualmente trabalhando em alguns projetos.
 Projetos em Destaque
 
