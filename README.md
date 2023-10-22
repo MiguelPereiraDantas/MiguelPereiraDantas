@@ -28,7 +28,6 @@ Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Rogato github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelPereiraDantas&theme=github_dark&utcOffset=-3)
 </div>
  <br>
 
