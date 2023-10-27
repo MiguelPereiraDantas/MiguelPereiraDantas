@@ -1,5 +1,5 @@
 ### Olá, eu sou Miguel Pereira Dantas de Oliveira! 👋
-## Sobre mim:
+## Sobre mim: 	
 👨‍🎓 Aluno de Sistemas de Informação (6º periodo) no CESMAC, Maceió, Alagoas.
 
 🎮 GameDev iniciante, com paixão por construir e desenvolver jogos.
