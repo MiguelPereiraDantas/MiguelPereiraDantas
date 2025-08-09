@@ -1,16 +1,10 @@
 ### Olá, eu sou Miguel Pereira Dantas de Oliveira! 👋
 ## Sobre mim: 	
-👨‍🎓 Aluno de Sistemas de Informação (7º periodo) no CESMAC, Maceió, Alagoas.
+👨‍🎓 Aluno de Sistemas de Informação na Estácio Maceió, Alagoas.
 
 🌐 Fluente em Português, Inglês, e Espanhol.
 
 💡 Conhecimento básico em Mandarim, Francês, e Japonês.
-
-🚀 Atualmente trabalhando em alguns projetos.
-Projetos em Destaque
-
-Grito dos Descohecidos - (projeto feito e desenvolvido, só por mim) Prepare-se para uma jornada interdimensional épica que desafiará os limites da sua imaginação e te deixará ansioso para explorar o desconhecido. Bem-vindo a "Gritos dos Desconhecidos".
-
 
 ## Contatos
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](oliveirami3)
