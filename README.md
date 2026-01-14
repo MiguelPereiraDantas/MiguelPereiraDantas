@@ -13,15 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_miguel.pereiraa/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/oliveira_mi3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/miguel-pereira-99b709297/)
-## Status Github:
-![trophy](https://github-profile-trophy.vercel.app/?username=MiguelPereiraDantas&theme=darkhub&column=6&margin-w=6&margin-h=6&no-bg=true&no-frame=true)
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MiguelPereiraDantas&bg_color=000000&color=047f80&line=047f80&point=017f7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MiguelPereiraDantas&show_icons=true&count_public=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Rogato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPereiraDantas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
- <br>
 
 ## Tecnologias que uso no meu Dia:
 <div syle="display: inline_block"><br/>
